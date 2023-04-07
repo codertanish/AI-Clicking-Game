@@ -1,0 +1,25 @@
+.click_icon {
+    margin-left: 0px;
+    height: 75px;
+    width: 75px;
+}
+
+
+.header
+{
+	color: black;
+    font-family: 'Nabla';
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin: 80px;
+}
+
+body {
+    color: black;
+    font-family: 'Source Code Pro', monospace !important;
+}
+
+.login_div {
+    text-align: center;
+    float: none !important;
+}
